@@ -9,50 +9,50 @@ Welcome to the world of Carl and his friends! This universe is the setting for a
 ## About Carl (Artist Name: Storm / Stormwindsky)
 ![Storm](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Stormwindsky/Storm2.svg)
 
-* **Age:** 16[cite: 3]
-* **Gender:** Male[cite: 3]
-* **Role:** Main Protagonist / Driver[cite: 3]
+* **Age:** 16
+* **Gender:** Male
+* **Role:** Main Protagonist / Driver
 
 **Personality:**
-Carl is a brave and energetic teenager[cite: 3]. Always ready for an adventure, he is known for his loyalty to his friends and his protective nature[cite: 3]. Despite being only 16, he shows great leadership skills, though he can sometimes be a bit impulsive when his loved ones are in trouble[cite: 3]. Driven by his passion for extreme weather, he leads his team directly into the danger zone, often clashing with rival storm chasers.
+Carl is a brave and energetic teenager. Always ready for an adventure, he is known for his loyalty to his friends and his protective nature. Despite being only 16, he shows great leadership skills, though he can sometimes be a bit impulsive when his loved ones are in trouble. Driven by his passion for extreme weather, he leads his team directly into the danger zone, often clashing with rival storm chasers.
 
 ---
 
 ## About Shara (Artist Name: CloudySunny)
 ![CloudySunny](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/CloudySunny/CloudySunny2.svg)
 
-* **Age:** 16[cite: 3]
-* **Gender:** Female[cite: 3]
-* **Relationship:** Carl's Best Friend / Navigator[cite: 3]
+* **Age:** 16
+* **Gender:** Female
+* **Relationship:** Carl's Best Friend / Navigator
 
 **Personality:**
-Shara is a bright and cheerful girl who acts as the "light" of the group[cite: 3]. As Carl's best friend, she provides the perfect balance to his energy with her calm and thoughtful approach to problems[cite: 3]. She is highly empathetic, serving as the emotional anchor of the team[cite: 3]. Her incredible observation skills allow her to read the sky like a book, helping the team outsmart both the unpredictable weather and their rivals[cite: 3].
+Shara is a bright and cheerful girl who acts as the "light" of the group. As Carl's best friend, she provides the perfect balance to his energy with her calm and thoughtful approach to problems. She is highly empathetic, serving as the emotional anchor of the team. Her incredible observation skills allow her to read the sky like a book, helping the team outsmart both the unpredictable weather and their rivals.
 
 ---
 
 ## About Robert
 ![Robert](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Robert/Robert2.svg)
 
-* **Age:** 17[cite: 3]
-* **Gender:** Male[cite: 3]
-* **Relationship:** Carl's Childhood Best Friend / Mechanic & Tech Guy[cite: 3]
+* **Age:** 17
+* **Gender:** Male
+* **Relationship:** Carl's Childhood Best Friend / Mechanic & Tech Guy
 
 **Personality:**
-Robert is the grounded, technical heart of the group[cite: 3]. Having grown up alongside Carl, he is the one who truly understands his friend's restless energy and is always there to balance it out[cite: 3]. While Carl is quick to jump into action, Robert is the one who makes sure they have a plan—and the gear—to survive it[cite: 3]. He built and maintains their custom "Chaser-Van." He has a dry sense of humor that often surfaces when things get chaotic[cite: 3]. He is deeply loyal, and because of their lifelong bond, he never hesitates to follow Carl into the unknown, no matter how cautious he might personally be[cite: 3].
+Robert is the grounded, technical heart of the group. Having grown up alongside Carl, he is the one who truly understands his friend's restless energy and is always there to balance it out. While Carl is quick to jump into action, Robert is the one who makes sure they have a plan—and the gear—to survive it. He built and maintains their custom "Chaser-Van." He has a dry sense of humor that often surfaces when things get chaotic. He is deeply loyal, and because of their lifelong bond, he never hesitates to follow Carl into the unknown, no matter how cautious he might personally be.
 
 ---
 
 ## About Orango
 ![Orango](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Orango/Orango.svg)
 
-* **Age:** 6[cite: 3]
-* **Gender:** Male[cite: 3]
-* **Role:** Carl's Pet / Emergency Danger Detector[cite: 3]
+* **Age:** 6
+* **Gender:** Male
+* **Role:** Carl's Pet / Emergency Danger Detector
 
 **Personality:**
-Orango is Carl's unique, fictional pet companion[cite: 3]. He is a one-eyed, triangle-shaped orange fish with two small fins but absolutely no legs. Even though he is a fish, he can perfectly breathe out of water! To move around on land, he has to constantly jump and flop around. 
+Orango is Carl's unique, fictional pet companion. He is a one-eyed, triangle-shaped orange fish with two small fins but absolutely no legs. Even though he is a fish, he can perfectly breathe out of water! To move around on land, he has to constantly jump and flop around. 
 
-Orango is completely non-verbal (similar to Woody from BFDI), communicating only through panicked squeaks, gasps, and expressive noises. Don't let his age of 6 fool you; he has an incredible animal instinct for weather[cite: 3]. When a dangerous tornado or sudden flash flood is approaching, he starts jumping around frantically inside the van, serving as the team's chaotic, bouncing early-warning system.
+Orango is completely non-verbal (similar to Woody from BFDI), communicating only through panicked squeaks, gasps, and expressive noises. Don't let his age of 6 fool you; he has an incredible animal instinct for weather. When a dangerous tornado or sudden flash flood is approaching, he starts jumping around frantically inside the van, serving as the team's chaotic, bouncing early-warning system.
 
 ---
 
@@ -82,50 +82,50 @@ Bienvenue dans le monde de Carl et de ses amis ! Cet univers est le théâtre d'
 ## À propos de Carl (Nom d'artiste : Storm / Stormwindsky)
 ![Storm](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Stormwindsky/Storm2.svg)
 
-* **Âge :** 16 ans[cite: 3]
-* **Genre :** Masculin[cite: 3]
-* **Rôle :** Protagoniste principal / Conducteur[cite: 3]
+* **Âge :** 16 ans
+* **Genre :** Masculin
+* **Rôle :** Protagoniste principal / Conducteur
 
 **Personnalité :**
-Carl est un adolescent courageux et plein d'énergie[cite: 3]. Toujours prêt pour l'aventure, il est connu pour sa loyauté envers ses amis et sa nature très protectrice[cite: 3]. Malgré ses 16 ans, il fait preuve de grandes qualités de leader, même s'il peut parfois se montrer impulsif lorsque ses proches sont en danger[cite: 3]. Animé par sa passion pour la météo extrême, il guide son équipe directement dans la zone de danger, se heurtant souvent à des chasseurs de tempêtes rivaux.
+Carl est un adolescent courageux et plein d'énergie. Toujours prêt pour l'aventure, il est connu pour sa loyauté envers ses amis et sa nature très protectrice. Malgré ses 16 ans, il fait preuve de grandes qualités de leader, même s'il peut parfois se montrer impulsif lorsque ses proches sont en danger. Animé par sa passion pour la météo extrême, il guide son équipe directement dans la zone de danger, se heurtant souvent à des chasseurs de tempêtes rivaux.
 
 ---
 
 ## À propos de Shara (Nom d'artiste : CloudySunny)
 ![CloudySunny](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/CloudySunny/CloudySunny2.svg)
 
-* **Âge :** 16 ans[cite: 3]
-* **Genre :** Féminin[cite: 3]
-* **Relation :** Meilleure amie de Carl / Navigatrice[cite: 3]
+* **Âge :** 16 ans
+* **Genre :** Féminin
+* **Relation :** Meilleure amie de Carl / Navigatrice
 
 **Personnalité :**
-Shara est une fille lumineuse et enjouée qui agit comme la « lumière » du groupe[cite: 3]. En tant que meilleure amie de Carl, elle apporte un équilibre parfait à son énergie grâce à son approche calme et réfléchie des problèmes[cite: 3]. Très empathique, elle est le pilier émotionnel de l'équipe[cite: 3]. Ses incroyables capacités d'observation lui permettent de lire le ciel comme un livre ouvert, aidant l'équipe à déjouer la météo imprévisible et à devancer leurs rivaux[cite: 3].
+Shara est une fille lumineuse et enjouée qui agit comme la « lumière » du groupe. En tant que meilleure amie de Carl, elle apporte un équilibre parfait à son énergie grâce à son approche calme et réfléchie des problèmes. Très empathique, elle est le pilier émotionnel de l'équipe. Ses incroyables capacités d'observation lui permettent de lire le ciel comme un livre ouvert, aidant l'équipe à déjouer la météo imprévisible et à devancer leurs rivaux.
 
 ---
 
 ## À propos de Robert
 ![Robert](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Robert/Robert2.svg)
 
-* **Âge :** 17 ans[cite: 3]
-* **Genre :** Masculin[cite: 3]
-* **Relation :** Meilleur ami d'enfance de Carl / Mécanicien & Technicien[cite: 3]
+* **Âge :** 17 ans
+* **Genre :** Masculin
+* **Relation :** Meilleur ami d'enfance de Carl / Mécanicien & Technicien
 
 **Personnalité :**
-Robert est le cœur technique et terre-à-terre du groupe[cite: 3]. Ayant grandi aux côtés de Carl, il est le seul à vraiment comprendre l'énergie débordante de son ami et est toujours là pour la canaliser[cite: 3]. Alors que Carl est le premier à foncer, Robert est celui qui s'assure qu'ils ont un plan — et le matériel — pour s'en sortir vivants[cite: 3]. C'est lui qui a fabriqué et qui entretient leur « Chaser-Van » personnalisé. Il possède un humour très second degré qui ressort souvent en plein chaos[cite: 3]. Profondément loyal, il n'hésite jamais à suivre Carl dans le moindre mystère, peu importe son niveau de prudence personnelle[cite: 3].
+Robert est le cœur technique et terre-à-terre du groupe. Ayant grandi aux côtés de Carl, il est le seul à vraiment comprendre l'énergie débordante de son ami et est toujours là pour la canaliser. Alors que Carl est le premier à foncer, Robert est celui qui s'assure qu'ils ont un plan — et le matériel — pour s'en sortir vivants. C'est lui qui a fabriqué et qui entretient leur « Chaser-Van » personnalisé. Il possède un humour très second degré qui ressort souvent en plein chaos. Profondément loyal, il n'hésite jamais à suivre Carl dans le moindre mystère, peu importe son niveau de prudence personnelle.
 
 ---
 
 ## À propos d'Orango
 ![Orango](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Orango/Orango.svg)
 
-* **Âge :** 6 ans[cite: 3]
-* **Genre :** Masculin[cite: 3]
-* **Rôle :** Animal de compagnie de Carl / Détecteur de danger de secours[cite: 3]
+* **Âge :** 6 ans
+* **Genre :** Masculin
+* **Rôle :** Animal de compagnie de Carl / Détecteur de danger de secours
 
 **Personnalité :**
-Orango est le compagnon unique et fictif de Carl[cite: 3]. C'est une sorte de poisson orange en forme de triangle, doté d'un œil unique et de deux petites nageoires, mais de strictement aucune patte. Bien qu'il soit un poisson, il peut parfaitement respirer hors de l'eau ! Pour se déplacer sur la terre ferme, il doit constamment sauter et bondir au sol.
+Orango est le compagnon unique et fictif de Carl. C'est une sorte de poisson orange en forme de triangle, doté d'un œil unique et de deux petites nageoires, mais de strictement aucune patte. Bien qu'il soit un poisson, il peut parfaitement respirer hors de l'eau ! Pour se déplacer sur la terre ferme, il doit constamment sauter et bondir au sol.
 
-Orango est totalement non-verbal (un peu comme Woody dans BFDI) et s'exprime uniquement par des petits couinements de panique, des halètements et des bruits expressifs. Ne vous fiez pas à son âge de 6 ans : il possède un instinct animal incroyable face aux éléments[cite: 3]. Lorsqu'une tornade dangereuse ou une crue soudaine approche, il se met à sauter frénétiquement partout dans le van, servant de système d'alerte orange, bondissant et chaotique pour l'équipe.
+Orango est totalement non-verbal (un peu comme Woody dans BFDI) et s'exprime uniquement par des petits couinements de panique, des halètements et des bruits expressifs. Ne vous fiez pas à son âge de 6 ans : il possède un instinct animal incroyable face aux éléments. Lorsqu'une tornade dangereuse ou une crue soudaine approche, il se met à sauter frénétiquement partout dans le van, servant de système d'alerte orange, bondissant et chaotique pour l'équipe.
 
 ---
 
