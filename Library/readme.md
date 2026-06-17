@@ -1,13 +1,13 @@
 # ENGLISH Version
 
-# Meet the Characters & The World of StormWorld
+# Meet the Characters & The World of Frontline Chasers
 
 Welcome to the world of Carl and his friends! This universe is the setting for a fictional web-series show centered around the dangerous and chaotic world of extreme storm chasing. In this world, characters don't just track tornadoes for fun—they compete against other rival teams to get the best footage, deploy sensors, and survive the most violent storms.
 
 ---
 
 ## About Carl (Artist Name: Storm / Stormwindsky)
-![Storm](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Stormwindsky/Storm2.svg)
+![Storm](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Stormwindsky/Storm2.svg)
 
 * **Age:** 16
 * **Gender:** Male
@@ -19,7 +19,7 @@ Carl is a brave and energetic teenager. Always ready for an adventure, he is kno
 ---
 
 ## About Shara (Artist Name: CloudySunny)
-![CloudySunny](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/CloudySunny/CloudySunny2.svg)
+![CloudySunny](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/CloudySunny/CloudySunny2.svg)
 
 * **Age:** 16
 * **Gender:** Female
@@ -31,7 +31,7 @@ Shara is a bright and cheerful girl who acts as the "light" of the group. As Car
 ---
 
 ## About Robert
-![Robert](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Robert/Robert2.svg)
+![Robert](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Robert/Robert2.svg)
 
 * **Age:** 17
 * **Gender:** Male
@@ -43,7 +43,7 @@ Robert is the grounded, technical heart of the group. Having grown up alongside 
 ---
 
 ## About Orango
-![Orango](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Orango/Orango.svg)
+![Orango](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Orango/Orango.svg)
 
 * **Age:** 6
 * **Gender:** Male
@@ -73,14 +73,14 @@ This universe and its assets are dual-licensed under:
 
 # VERSION FRANÇAISE
 
-# Découvrez les Personnages & L'univers de StormWorld
+# Découvrez les Personnages & L'univers, Les Lignes de Front
 
 Bienvenue dans le monde de Carl et de ses amis ! Cet univers est le théâtre d'une web-série fictive centrée sur le monde dangereux et chaotique de la chasse aux tempêtes extrêmes. Dans cet univers, les personnages ne traquent pas seulement les tornades pour le plaisir : ils participent à une sorte de compétition face à des équipes rivales pour obtenir les meilleures images, placer des capteurs et survivre aux tempêtes les plus violentes.
 
 ---
 
 ## À propos de Carl (Nom d'artiste : Storm / Stormwindsky)
-![Storm](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Stormwindsky/Storm2.svg)
+![Storm](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Stormwindsky/Storm2.svg)
 
 * **Âge :** 16 ans
 * **Genre :** Masculin
@@ -92,7 +92,7 @@ Carl est un adolescent courageux et plein d'énergie. Toujours prêt pour l'aven
 ---
 
 ## À propos de Shara (Nom d'artiste : CloudySunny)
-![CloudySunny](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/CloudySunny/CloudySunny2.svg)
+![CloudySunny](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/CloudySunny/CloudySunny2.svg)
 
 * **Âge :** 16 ans
 * **Genre :** Féminin
@@ -104,7 +104,7 @@ Shara est une fille lumineuse et enjouée qui agit comme la « lumière » du gr
 ---
 
 ## À propos de Robert
-![Robert](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Robert/Robert2.svg)
+![Robert](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Robert/Robert2.svg)
 
 * **Âge :** 17 ans
 * **Genre :** Masculin
@@ -116,7 +116,7 @@ Robert est le cœur technique et terre-à-terre du groupe. Ayant grandi aux côt
 ---
 
 ## À propos d'Orango
-![Orango](https://raw.githubusercontent.com/Stormwindsky/StormWorld/refs/heads/main/Library/Characters/Orango/Orango.svg)
+![Orango](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Orango/Orango.svg)
 
 * **Âge :** 6 ans
 * **Genre :** Masculin
