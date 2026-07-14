@@ -1,10 +1,12 @@
-# Frontline Chasers
+# FrontHated Chasers
 
 [![License: Dual](https://img.shields.io/badge/License-Dual--Licensed-orange.svg)](https://github.com/Stormwindsky/Frontline-Chasers/blob/main/LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/Stormwindsky/Frontline-Chasers/blob/main/LICENSE)
 [![License: OGA BY 4.0](https://img.shields.io/badge/License-OGA_BY_4.0-blue.svg)](https://github.com/Stormwindsky/Frontline-Chasers/blob/main/LICENSE)
 
-Welcome to the **Frontline Chasers** project repository.
+Welcome to the **FrontHated Chasers** project repository.
+
+An alternate universe in which a friendship ends tragically
 
 ## Licensing
 
