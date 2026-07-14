@@ -1,65 +1,8 @@
 # ENGLISH Version
 
-# Meet the Characters & The World of Frontline Chasers
+For more info here:
 
-Welcome to the world of Carl and his friends! This universe is the setting for a fictional web-series show centered around the dangerous and chaotic world of extreme storm chasing. In this world, characters don't just track tornadoes for fun—they compete against other rival teams to get the best footage, deploy sensors, and survive the most violent storms.
-
----
-
-## About Carl (Artist Name: Storm / Stormwindsky)
-![Storm](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Stormwindsky/Storm2.svg)
-
-* **Age:** 16
-* **Gender:** Male
-* **Role:** Main Protagonist / Driver
-
-**Personality:**
-Carl is a brave and energetic teenager. Always ready for an adventure, he is known for his loyalty to his friends and his protective nature. Despite being only 16, he shows great leadership skills, though he can sometimes be a bit impulsive when his loved ones are in trouble. Driven by his passion for extreme weather, he leads his team directly into the danger zone, often clashing with rival storm chasers.
-
----
-
-## About Shara (Artist Name: CloudySunny)
-![CloudySunny](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/CloudySunny/CloudySunny2.svg)
-
-* **Age:** 16
-* **Gender:** Female
-* **Relationship:** Carl's Best Friend / Navigator
-
-**Personality:**
-Shara is a bright and cheerful girl who acts as the "light" of the group. As Carl's best friend, she provides the perfect balance to his energy with her calm and thoughtful approach to problems. She is highly empathetic, serving as the emotional anchor of the team. Her incredible observation skills allow her to read the sky like a book, helping the team outsmart both the unpredictable weather and their rivals.
-
----
-
-## About Robert
-![Robert](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Robert/Robert2.svg)
-
-* **Age:** 17
-* **Gender:** Male
-* **Relationship:** Carl's Childhood Best Friend / Mechanic & Tech Guy
-
-**Personality:**
-Robert is the grounded, technical heart of the group. Having grown up alongside Carl, he is the one who truly understands his friend's restless energy and is always there to balance it out. While Carl is quick to jump into action, Robert is the one who makes sure they have a plan—and the gear—to survive it. He built and maintains their custom "Chaser-Van." He has a dry sense of humor that often surfaces when things get chaotic. He is deeply loyal, and because of their lifelong bond, he never hesitates to follow Carl into the unknown, no matter how cautious he might personally be.
-
----
-
-## About Orango
-![Orango](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Orango/Orango.svg)
-
-* **Age:** 6
-* **Gender:** Male
-* **Role:** Carl's Pet / Emergency Danger Detector
-
-**Personality:**
-Orango is Carl's unique, fictional pet companion. He is a one-eyed, triangle-shaped orange fish with two small fins but absolutely no legs. Even though he is a fish, he can perfectly breathe out of water! To move around on land, he has to constantly jump and flop around. 
-
-Orango is completely non-verbal (similar to Woody from BFDI), communicating only through panicked squeaks, gasps, and expressive noises. Don't let his age of 6 fool you; he has an incredible animal instinct for weather. When a dangerous tornado or sudden flash flood is approaching, he starts jumping around frantically inside the van, serving as the team's chaotic, bouncing early-warning system.
-
----
-
-## 🌪️ The Fictional Show & Varying Rivals
-StormWorld takes place in a highly competitive, cartoon-yet-serious web-series format. Carl's crew isn't alone on the road; they constantly face **Rival Storm Chasing Teams**. 
-
-However, these rivalries can vary greatly. Not all rivals are cheaters, villains, or corporate antagonists. While some might use high-tech, expensive corporate gear and play dirty to steal storm data or stream footage first, others are friendly competitors who share a mutual respect with Carl's team. Each rival crew has a unique personality, distinct motivations, and different philosophies on how to chase storms. The series beautifully balances these fun, diverse character dynamics with the genuine, serious dangers of facing Mother Nature without any superpowers.
+https://github.com/Stormwindsky/Frontline-Chasers/tree/main/Library
 
 ---
 
@@ -71,68 +14,12 @@ This universe and its assets are dual-licensed under:
 ---
 ---
 
+
 # VERSION FRANÇAISE
 
-# Découvrez les Personnages & L'univers, Les Lignes de Front
+Pour plus d'info ici:
 
-Bienvenue dans le monde de Carl et de ses amis ! Cet univers est le théâtre d'une web-série fictive centrée sur le monde dangereux et chaotique de la chasse aux tempêtes extrêmes. Dans cet univers, les personnages ne traquent pas seulement les tornades pour le plaisir : ils participent à une sorte de compétition face à des équipes rivales pour obtenir les meilleures images, placer des capteurs et survivre aux tempêtes les plus violentes.
-
----
-
-## À propos de Carl (Nom d'artiste : Storm / Stormwindsky)
-![Storm](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Stormwindsky/Storm2.svg)
-
-* **Âge :** 16 ans
-* **Genre :** Masculin
-* **Rôle :** Protagoniste principal / Conducteur
-
-**Personnalité :**
-Carl est un adolescent courageux et plein d'énergie. Toujours prêt pour l'aventure, il est connu pour sa loyauté envers ses amis et sa nature très protectrice. Malgré ses 16 ans, il fait preuve de grandes qualités de leader, même s'il peut parfois se montrer impulsif lorsque ses proches sont en danger. Animé par sa passion pour la météo extrême, il guide son équipe directement dans la zone de danger, se heurtant souvent à des chasseurs de tempêtes rivaux.
-
----
-
-## À propos de Shara (Nom d'artiste : CloudySunny)
-![CloudySunny](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/CloudySunny/CloudySunny2.svg)
-
-* **Âge :** 16 ans
-* **Genre :** Féminin
-* **Relation :** Meilleure amie de Carl / Navigatrice
-
-**Personnalité :**
-Shara est une fille lumineuse et enjouée qui agit comme la « lumière » du groupe. En tant que meilleure amie de Carl, elle apporte un équilibre parfait à son énergie grâce à son approche calme et réfléchie des problèmes. Très empathique, elle est le pilier émotionnel de l'équipe. Ses incroyables capacités d'observation lui permettent de lire le ciel comme un livre ouvert, aidant l'équipe à déjouer la météo imprévisible et à devancer leurs rivaux.
-
----
-
-## À propos de Robert
-![Robert](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Robert/Robert2.svg)
-
-* **Âge :** 17 ans
-* **Genre :** Masculin
-* **Relation :** Meilleur ami d'enfance de Carl / Mécanicien & Technicien
-
-**Personnalité :**
-Robert est le cœur technique et terre-à-terre du groupe. Ayant grandi aux côtés de Carl, il est le seul à vraiment comprendre l'énergie débordante de son ami et est toujours là pour la canaliser. Alors que Carl est le premier à foncer, Robert est celui qui s'assure qu'ils ont un plan — et le matériel — pour s'en sortir vivants. C'est lui qui a fabriqué et qui entretient leur « Chaser-Van » personnalisé. Il possède un humour très second degré qui ressort souvent en plein chaos. Profondément loyal, il n'hésite jamais à suivre Carl dans le moindre mystère, peu importe son niveau de prudence personnelle.
-
----
-
-## À propos d'Orango
-![Orango](https://raw.githubusercontent.com/Stormwindsky/Frontline-Chasers/refs/heads/main/Library/Characters/Orango/Orango.svg)
-
-* **Âge :** 6 ans
-* **Genre :** Masculin
-* **Rôle :** Animal de compagnie de Carl / Détecteur de danger de secours
-
-**Personnalité :**
-Orango est le compagnon unique et fictif de Carl. C'est une sorte de poisson orange en forme de triangle, doté d'un œil unique et de deux petites nageoires, mais de strictement aucune patte. Bien qu'il soit un poisson, il peut parfaitement respirer hors de l'eau ! Pour se déplacer sur la terre ferme, il doit constamment sauter et bondir au sol.
-
-Orango est totalement non-verbal (un peu comme Woody dans BFDI) et s'exprime uniquement par des petits couinements de panique, des halètements et des bruits expressifs. Ne vous fiez pas à son âge de 6 ans : il possède un instinct animal incroyable face aux éléments. Lorsqu'une tornade dangereuse ou une crue soudaine approche, il se met à sauter frénétiquement partout dans le van, servant de système d'alerte orange, bondissant et chaotique pour l'équipe.
-
----
-
-## 🌪️ Le Show Fictif & La Diversité des Rivaux
-StormWorld se déroule sous la forme d'une web-série au style cartoon mais avec des enjeux sérieux. L'équipe de Carl n'est pas seule sur la route : elle fait constamment face à des **Équipes de Chasseurs de Tempêtes Rivaux**.
-
-Cependant, ces rivalités peuvent grandement varier. Les rivaux ne sont pas tous des tricheurs, des grands méchants ou des antagonistes corporatifs. Si certaines équipes utilisent du matériel d'entreprise ultra-technologique et jouent de manière déloyale pour voler des données météo ou diffuser leurs images en premier, d'autres équipes se révèlent amicales et partagent un respect mutuel avec Carl et ses amis. Chaque groupe de rivaux possède sa propre personnalité, des motivations distinctes et une philosophie différente de la chasse aux tempêtes. La série équilibre ainsi des dynamiques de personnages variées et amusantes avec le danger bien réel et sérieux de faire face à la nature sans aucun super-pouvoir.
+https://github.com/Stormwindsky/Frontline-Chasers/tree/main/Library
 
 ---
 
