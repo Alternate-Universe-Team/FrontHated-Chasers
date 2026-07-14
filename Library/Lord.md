@@ -23,7 +23,7 @@ Carl, usually loyal and protective, developed a morbid obsession with capturing 
 
 ### Appearance After the Incident:
 * **Head:** Completely bald due to severe burns (total loss of his blonde hair and viking helmet).
-* **Face:** Features a harsh, dark mustache that hardens his expressions. His right eye is mutilated by debris, surrounded by a crudely stitched scar, harboring a dark glare.
+* **Face:** His right eye is mutilated by debris, surrounded by a crudely stitched scar, harboring a dark glare.
 * **Body:** His right arm was severed just below the elbow during the crushing of the vehicle.
 * **Clothing:** Retains his original clothes (orange top and green pants), but heavily stained and marked by the tragedy.
 
@@ -70,7 +70,7 @@ Carl, d'ordinaire loyal et protecteur, a développé une obsession maladive pour
 
 ### Apparence après l'incident :
 * **Tête :** Entièrement chauve à la suite de graves brûlures (perte totale de ses cheveux blonds et de son casque de viking).
-* **Visage :** Présence d'une moustache noire et robuste qui durcit ses traits. Son œil droit est mutilé par des débris, désormais entouré d'une cicatrice grossièrement recousue, arborant une lueur sombre.
+* **Visage :** Son œil droit est mutilé par des débris, désormais entouré d'une cicatrice grossièrement recousue, arborant une lueur sombre.
 * **Corps :** Son bras droit a été sectionné juste sous le coude lors du broyage du véhicule.
 * **Vêtements :** Conserve ses habits d'origine (haut orange et pantalon vert), mais marqués par les stigmates de la tragédie.
 
